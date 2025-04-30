@@ -23,7 +23,7 @@ A machine learning system that predicts patient health risks using clinical data
 ### Steps
 1.Clone the repository:
    bash
-   git clone https://github.com/yourusername/patient-risk-assessment.git
+   git clone https://github.com/Tusharr0204/patient-risk-assessment.git
    cd patient-risk-assessment
    
 2.Create and activate virtual environment:

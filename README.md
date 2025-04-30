@@ -40,14 +40,14 @@ A machine learning system that predicts patient health risks using clinical data
     bash
     python models/train_model.py
 
-Usage
+### Usage
 Start the Flask server:
 
 bash
 python -m flask run
 Enter patient data and view AI-generated risk assessment.
 
-Project Structure
+### Project Structure
 patient-risk-assessment/
 ├── app/                  # Flask application
 ├── data/                 # Sample datasets
@@ -56,13 +56,13 @@ patient-risk-assessment/
 ├── requirements.txt      # Dependencies
 └── README.md
 
-Dataset
+### Dataset
 Sample synthetic dataset includes:
 Demographic data (age, gender)
 Clinical metrics (BMI, blood pressure)
 Lifestyle factors (smoking status, activity level)
 
-Technologies Used
+### Technologies Used
 Machine Learning: scikit-learn, Transformers
 Web Framework: Flask
 Explainability: Hugging Face Transformers (GPT-2 for explanations)

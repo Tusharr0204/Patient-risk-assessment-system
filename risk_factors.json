@@ -1,0 +1,10 @@
+{
+    "age": "Increased age is associated with higher risk of chronic diseases",
+    "gender": "Gender can influence risk for certain conditions",
+    "bmi": "Higher BMI indicates overweight/obesity which increases risk",
+    "blood_pressure": "Elevated blood pressure is a major risk factor",
+    "cholesterol": "High cholesterol contributes to cardiovascular risk",
+    "smoker": "Smoking significantly increases health risks",
+    "diabetes": "Diabetes is a major risk factor for many conditions",
+    "physical_activity": "Lower activity levels correlate with higher risks"
+}

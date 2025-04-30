@@ -1,0 +1,4 @@
+A (age)	B (gender)	C (bmi)	D (blood_pressure)	E (cholesterol)	F (smoker)	G (diabetes)	H (physical_activity)	I (risk_level)
+45	Male	25.6	120	180	No	No	2	Low
+62	Female	28.3	140	220	No	Yes	1	Moderate
+								

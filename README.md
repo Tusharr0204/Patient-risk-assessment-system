@@ -45,8 +45,26 @@ Start the Flask server:
 
 bash
 python -m flask run
-Access the web interface at:
-
-http://localhost:5000
 Enter patient data and view AI-generated risk assessment.
+
+Project Structure
+patient-risk-assessment/
+├── app/                  # Flask application
+├── data/                 # Sample datasets
+├── models/               # ML model training code
+├── config.py             # Configuration
+├── requirements.txt      # Dependencies
+└── README.md
+
+Dataset
+Sample synthetic dataset includes:
+Demographic data (age, gender)
+Clinical metrics (BMI, blood pressure)
+Lifestyle factors (smoking status, activity level)
+
+Technologies Used
+Machine Learning: scikit-learn, Transformers
+Web Framework: Flask
+Explainability: Hugging Face Transformers (GPT-2 for explanations)
+Visualization: Bootstrap, Progress bars
  
